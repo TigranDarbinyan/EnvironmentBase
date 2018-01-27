@@ -1,0 +1,19 @@
+{
+  "name": "env",
+  "version": "1.0.0",
+  "description": "base environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigranDarbinyan/EnvironmentBase.git"
+  },
+  "author": "T.Darbinyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigranDarbinyan/EnvironmentBase/issues"
+  },
+  "homepage": "https://github.com/TigranDarbinyan/EnvironmentBase#readme"
+}
